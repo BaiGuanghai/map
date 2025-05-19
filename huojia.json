@@ -1,0 +1,31 @@
+{
+  "Version" : "1.0.1.0",
+  "WaresType" : [ {
+    "Id" : "1909412479679377408",
+    "Name" : "YCLZJ001",
+    "WareModel" : "托盘架",
+    "Length" : 1000,
+    "Width" : 1000,
+    "Height" : 1000,
+    "LegLength" : 30,
+    "LegWidth" : 30,
+    "LegHeight" : 310,
+    "LegInnerLength" : 940,
+    "LegInnerWidth" : 940,
+    "DefaultOrientationType" : "All",
+    "PickHeight" : 0,
+    "PutHeight" : 60,
+    "CollisionAvoidanceAreaType" : 0,
+    "QrCodeRectifyType" : "NoRectify",
+    "AllowRotate" : true,
+    "Manageable" : false,
+    "LoadDetect" : {
+      "QrCodeMin" : 0,
+      "QrCodeMax" : 99999999,
+      "QrCodeSensor" : true,
+      "MinLoadingHeight" : 55,
+      "LoadSensor" : false,
+      "LoadDetectType" : -1
+    }
+  } ]
+}
